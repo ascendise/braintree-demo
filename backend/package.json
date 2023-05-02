@@ -6,6 +6,7 @@
     "@types/node": "^18.16.3"
   },
   "dependencies": {
+    "body-parser": "^1.20.2",
     "braintree": "^3.15.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
